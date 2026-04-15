@@ -1,4 +1,4 @@
-# Civic-Fix
+# 🏛️ Civic-Fix
 
 
 Civic-Fix is a full-stack civic issue reporting and management platform that enables citizens to report public infrastructure problems, track resolution status, and communicate with authorities in a structured workflow. The system includes role-based access for citizens, officers, and administrators to streamline issue handling and resolution.
